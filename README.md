@@ -31,6 +31,7 @@ I'm Giulio (Italian: [ˈdʒuːljo]), a developer and application manager from Le
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dioscorides&layout=donut&bg_color=0,2d388a,00aeef&title_color=fff&text_color=fff)](https://github.com/Dioscorides/)
+
 (But really, I do a lot of Laravel in private repos)
 
 ## From around GitHub
