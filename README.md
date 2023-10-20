@@ -5,14 +5,14 @@ I'm Giulio (Italian: [ˈdʒuːljo]), a developer and application manager from Le
 📖 Fun fact: `Dioscorides`, my handle here on GitHub, is the Latinized form of the author of the first century CE Greek medical text, the _De Materia Medica_ (Περὶ ὕλης ἰατρικῆς), which was the most widely used herbal until the 17th century. It is also a 10th century CE manuscript that I have worked on for my MA thesis. The name itself means "gift of Zeus".
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+
+<a href="https://www.linkedin.com/in/giuliomenna/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
 
 ---
 
   **(☞ﾟヮﾟ)☞**  Proud developer of the [DMMapp - Digitized Medieval Manuscripts app](https://digitizedmedievalmanuscripts.org/) **☜(ﾟヮﾟ☜)**
 
   [![DMMapp Card](https://github-readme-stats.vercel.app/api/pin/?username=SexyCodicology&repo=DMMapp-Open-Source)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ---
 
@@ -37,6 +37,7 @@ I'm Giulio (Italian: [ˈdʒuːljo]), a developer and application manager from Le
 ## From around GitHub
 
 [![Giulio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dioscorides\&rank_icon=github&include_all_commits=true&bg_color=0,2d388a,00aeef&show_icons=true&title_color=fff&icon_color=fff&text_color=fff)](https://github.com/Dioscorides/)
+
 ![Giulio's additional GitHub stats](https://github-contributor-stats.vercel.app/api?username=Dioscorides&limit=8&bg_color=0,2d388a,00aeef&title_color=fff&text_color=fff&combine_all_yearly_contributions=true)
 
 </div>
