@@ -5,7 +5,8 @@ I'm Giulio (Italian: [ˈdʒuːljo]), a developer and application manager from Le
 📖 Fun fact: `Dioscorides`, my handle here on GitHub, is the Latinized form of the author of the first century CE Greek medical text, the _De Materia Medica_ (Περὶ ὕλης ἰατρικῆς), which was the most widely used herbal until the 17th century. It is also a 10th century CE manuscript that I have worked on for my MA thesis. The name itself means "gift of Zeus".
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+
+<a href="https://www.linkedin.com/in/giuliomenna/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
 
 ---
 
