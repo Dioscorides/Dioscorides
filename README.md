@@ -13,7 +13,6 @@ I'm Giulio (Italian: [ˈdʒuːljo]), a developer and application manager from Le
 
   [![DMMapp Card](https://github-readme-stats.vercel.app/api/pin/?username=SexyCodicology&repo=DMMapp-Open-Source)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ---
 
 <h2> Tech Stack </h2>
@@ -37,6 +36,7 @@ I'm Giulio (Italian: [ˈdʒuːljo]), a developer and application manager from Le
 ## From around GitHub
 
 [![Giulio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dioscorides\&rank_icon=github&include_all_commits=true&bg_color=0,2d388a,00aeef&show_icons=true&title_color=fff&icon_color=fff&text_color=fff)](https://github.com/Dioscorides/)
+
 ![Giulio's additional GitHub stats](https://github-contributor-stats.vercel.app/api?username=Dioscorides&limit=8&bg_color=0,2d388a,00aeef&title_color=fff&text_color=fff&combine_all_yearly_contributions=true)
 
 </div>
