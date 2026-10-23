@@ -10,9 +10,9 @@ I'm Giulio (Italian: [ˈdʒuːljo]), a developer and application manager from Le
 
 ---
 
-  **(☞ﾟヮﾟ)☞**  Proud developer of the [DMMapp - Digitized Medieval Manuscripts app](https://digitizedmedievalmanuscripts.org/) **☜(ﾟヮﾟ☜)**
+  **(☞ﾟヮﾟ)☞**  Proud developer of the [DMMapp - Digitized Medieval Manuscripts app](https://sexycodicology.github.io/Digitized-Medieval-Manuscripts-app/) **☜(ﾟヮﾟ☜)**
 
-  [![DMMapp Card](https://github-readme-stats.vercel.app/api/pin/?username=SexyCodicology&repo=DMMapp-Open-Source)](https://github.com/anuraghazra/github-readme-stats)
+  [![DMMapp Card](https://github-readme-stats.vercel.app/api/pin/?username=SexyCodicology&repo=Digitized-Medieval-Manuscripts-app)](https://github.com/SexyCodicology/Digitized-Medieval-Manuscripts-app)
 
 ---
 
